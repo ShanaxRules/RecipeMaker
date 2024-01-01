@@ -1,5 +1,5 @@
 let recipes = [
-    { name: 'Chicken Curry', ingredients: 'Onion , Indian Masala , Chicken , Red chilli', instructions: 'Cook the chicken and mix the the pastings. Serve hot.' },
+    { name: 'Chicken Curry', ingredients: 'Onion , Indian Masala , Chicken , Red chilli', instructions: 'Cook the chicken and mix the pastings. Serve hot.' },
     { name: 'Chicken Stir Fry', ingredients: 'Chicken, Vegetables, Soy Sauce, Rice', instructions: 'Cook chicken and vegetables. Add soy sauce. Serve over rice.' }
 ];
 
